@@ -1,2 +1,2 @@
 # MarlinConfigs
-Collected Marlin Configs
+Collected Marlin Configs - Geeetech i3 Pro B
